@@ -1,0 +1,16 @@
+{
+  "type": "korellia",
+  "value": {
+    "key": "default",
+    "chain-id": "korellia",
+    "rpc-addr": "https://rpc.korellia.kyve.network:443/",
+    "account-prefix": "tkyve",
+    "keyring-backend": "test",
+    "gas-adjustment": 1.2,
+    "gas-prices": "1tkyve",
+    "debug": true,
+    "timeout": "20s",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}
