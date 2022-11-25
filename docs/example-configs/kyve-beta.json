@@ -4,7 +4,7 @@
     "key": "default",
     "chain-id": "kyve-beta",
     "rpc-addr": "https://api.beta.kyve.network:443/",
-    "account-prefix": "tkyve",
+    "account-prefix": "kyve",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
     "gas-prices": "1tkyve",
